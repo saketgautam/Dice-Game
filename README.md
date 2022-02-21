@@ -15,4 +15,4 @@
   <li>If the number on the dice of player 1 is equal to the number on the dice of player 2, then it is a draw.</li>
 </ul>
 
-<p><strong>To watch website live,<a> click here</a><strong></p>
+<p><strong>To watch website live, <a href="https://saketgautam.github.io/Dice-Game/">click here</a><strong></p>
