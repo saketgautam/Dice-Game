@@ -11,3 +11,4 @@ A simple dice game created using HTML, CSS and JavaScript.
 * If the number on the dice of player 1 is less than the number on the dice of player 2, then player 2 wins.
 * If the number on the dice of player 1 is equal to the number on the dice of player 2, then it is a draw.
 
+<p><strong>To watch website live,<a> click here</a><strong></p>
